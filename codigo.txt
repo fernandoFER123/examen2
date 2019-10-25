@@ -1,0 +1,22 @@
+nombre_egresado: ['', [Validators.required]],
+apellido_paterno: ['', [Validators.required]],
+apellido_materno: ['', [Validators.required]],
+numero_telefono: ['', [Validators.required]],
+dni: ['', [Validators.required]],
+codigo_universitario: ['', [Validators.required]],
+direccion: ['', [Validators.required]],
+fecha_ingreso: ['', [Validators.required]],
+fecha_egreso: ['', [Validators.required]],
+email
+
+
+
+
+
+nombre: ['', [Validators.required]],
+apellidoP: ['', [Validators.required]],
+apellidoM: ['', [Validators.required]],
+telefono: ['', [Validators.required]],
+direccion: ['', [Validators.required]],
+email: ['', [Validators.required]],
+egresadoID:'',
